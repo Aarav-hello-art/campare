@@ -1,0 +1,49 @@
+body{
+    font-family: 'Viaoda Libre', cursive;
+    background-image: linear-gradient(to bottom, #1d4c6b, #255b7a, #2f6b88, #387b97, #438ba5, #3c9ab2, #34aabd, #2db9c6, #00cbc9, #00dcc6, #2eecbb, #5ffbab);
+}
+
+.maindiv{
+    background: rgb(38, 120, 175);
+    border: 3px solid white;
+    margin-top: 15px;
+    padding: 15px;
+}
+
+#header{
+    background-color: darkcyan;
+    color: white;
+    }
+
+    #camcam,#snap{
+        border: 3px dashed white;
+        width : 300px;
+        height: 300px;
+        box-shadow: 5px 5px 20px whitesmoke;
+    }
+
+    .maindiv button{
+        width: 300px;
+        margin-top: 10px;
+        box-shadow: 5px 5px 20px ;
+        font-size: 22px;
+    }
+
+    #footer{
+        position: fixed;
+        bottom: 0;
+        background-color: white;
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        line-height: 2;
+    }
+
+    #compare label{
+        font-size:22px
+    }
+
+    #outputdiv img{
+        width: 100px;
+        }
+
